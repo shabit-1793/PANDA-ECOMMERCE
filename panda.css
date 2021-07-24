@@ -6,12 +6,18 @@
     height: 450px;
     width: 402px;
 }
-.col-6{
-    background:linear-gradient(blue, skyblue);
-    height: 120px;
-    width: 379px;
-}
-.products img{
-    height: 90px;
+
+.p-3 img{
+    height: 090px;
     width: 68px;
+
+}
+.p-3{
+    border:2px solid 
+   
+    border-radius: 30px;
+}
+.card img{
+    height: 350px;
+    width: 350px;
 }

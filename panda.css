@@ -2,6 +2,31 @@
     height: 600px;
     width: 1002px;
 }
+/* shoes category
+ */
+ .bg-info-shoes{
+     border-radius: 10px;
+     background: linear-gradient(#FF9C35, #FFD019);
+
+ }
+ .bg-primary-jacket{
+     border-radius: 10px;
+     background: linear-gradient(#4289FF, #3F07F8);
+ }
+ .bg-success-watch{
+     border-radius: 10px;
+     background: linear-gradient(rgb(102, 221, 102), green);
+ }
+ .bg-warning-bag{
+     border-radius: 10px;
+     background: linear-gradient(#FF589B, #FF136F );
+ }
+ /* subscribe */
+.bg-info-subscribe{
+   
+    background-color: #FFF2F1;
+    border-radius: 10px;
+}
 .col-lg-5 img{
     height: 450px;
     width: 402px;
@@ -19,5 +44,29 @@
 }
 .card img{
     height: 350px;
-    width: 350px;
+    width: 316px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border: 3px solid rgb(144, 163, 163);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: mintcream;
+   
+}
+/* button colgroup */
+.panda-btn-buy{
+    background:linear-gradient(#FF589b, #FF136f);
+    color:white;
+    border: 0px;
+    border-radius: 8px ;
+    padding: 9px ;  
+}
+.panda-btn-buy-now{
+    background:linear-gradient(#FF589b, #FF136f);
+    color:white;
+    border: 0px;
+    border-radius: 8px ;
+    padding: 9px 25px;
+  
+    
 }
